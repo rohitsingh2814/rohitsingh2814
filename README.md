@@ -1,24 +1,112 @@
-<h1 align="center">Hi 👋, I'm Rohit</h1>
-<h3 align="center">A Journey to Software Mastery | CSE '27 at LPU</h3>
-<img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1360/0*gqO3slLmGb4mUeje.gif">
+<!-- ==================== PREMIUM HEADER ==================== -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitsingh2814&label=Profile%20views&color=0e75b6&style=flat" alt="rohitsingh2814" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohitsingh2814" alt="rohitsingh2814" /></a> </p>
-
-- 📫 How to reach me **rohitsingh7667142299@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/rohit-singh-3527aa270" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/rohit-singh-3527aa270" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@rohitsingh766711" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@rohitsingh766711" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Rohit%20Singh&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<!-- ==================== TYPING ANIMATION ==================== -->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohitsingh2814&show_icons=true&locale=en&layout=compact" alt="rohitsingh2814" /></p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;DSA+Enthusiast;Building+Real+World+Projects;Future+Software+Engineer" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohitsingh2814&show_icons=true&locale=en" alt="rohitsingh2814" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohitsingh2814&" alt="rohitsingh2814" /></p>
+<!-- ==================== BADGES ==================== -->
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rohitsingh2814&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/github/followers/rohitsingh2814?style=social" />
+  <img src="https://img.shields.io/github/stars/rohitsingh2814?style=social" />
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+* 🎓 CSE Student at **Lovely Professional University (LPU)**
+* 💻 Passionate about **Full Stack Development & DSA**
+* 🚀 Building real-world projects
+* 🌱 Learning **Cloud & System Design**
+* 🎯 Goal: Crack top tech companies
+
+---
+
+## ⚒️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,react,nodejs,express,mysql,git,docker,aws&theme=dark" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+<p align="center">
+
+<a href="https://github.com/rohitsingh2814/volunteer-finder">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rohitsingh2814&repo=volunteer-finder&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/rohitsingh2814/upi-tracker">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rohitsingh2814&repo=upi-tracker&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/rohitsingh2814/portfolio">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rohitsingh2814&repo=portfolio&theme=tokyonight" />
+</a>
+
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rohitsingh2814&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohitsingh2814&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitsingh2814&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/rohit-singh-3527aa270">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+  </a>
+  <a href="https://www.hackerrank.com/@rohitsingh766711">
+    <img src="https://skillicons.dev/icons?i=hackerrank" height="40"/>
+  </a>
+</p>
+
+---
+
+## ✨ Quote
+
+<p align="center">
+  "Discipline beats motivation every time."
+</p>
+
+---
+
+<!-- ==================== FOOTER ==================== -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
+</p>
